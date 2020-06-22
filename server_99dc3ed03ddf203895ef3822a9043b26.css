@@ -50,7 +50,7 @@ body{min-width:1200px;padding-top:0px;padding-bottom:0px;font-family:"Candara";b
 .pagination > .disabled > a,
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus{color:#777;cursor:not-allowed;background-color:#040404;border-color:#000;}
-.navbar-brand{position:absolute;margin:auto;top:-6px;right:0;bottom:0;left:0;width:200px;height:90px;background:url(https://cdn.statically.io/gh/rfonlinemyid/2232/6c332d39/top-content-icon.png) center no-repeat;}
+.navbar-brand{position:absolute;margin:auto;top:-6px;right:0;bottom:0;left:0;width:200px;height:90px;background:url(https://cdn.statically.io/gh/rfonlinemyid/2232/52236260/top-content-icon_486cebaff0dc20ab8f82b11cb6fc81c1.png) center no-repeat;}
 .navbar-brand .nav-center{font-family:candara;text-decoration:"uppercase";font-size:3rem;position:relative;top:50%;left:50%;right:50%;text-align:center;transform:translate(-50%,-50%);}
 .a-color{background-color:rgb(3, 7, 12);}
 .notification{background-color:#fa3e3e;border-radius:2px;color:#fff;padding:1px 3px;}
@@ -105,7 +105,7 @@ a.control_next{right:0;border-radius:2px 0 0 2px;}
 .server-status{position:absolute;width:300px;height:50px;margin-top:316px;margin-left:480px;padding:12px 20px;background-color:#000000b0;align-items:center;font-size:18px;}
 .online-bg{display:block;width:300px;height:71px;margin:0 auto;margin-top:-100px;margin-bottom:30px;align-items:center;background:url(https://cdn.statically.io/gh/rfonlinemyid/2232/6c332d39/header-nav2.png) center no-repeat;}
 .online-bg .text-bg{font-family:"Candara";font-size:2rem;position:relative;top:50%;left:50%;right:50%;text-align:center;transform:translate(-50%, -50%);}
-.online-bg .text-bg:before{content:"";background:url(https://cdn.statically.io/gh/rfonlinemyid/2232/6c332d39/top-content-icon.png) no-repeat;left:50%;margin-left:-72px;top:-55px;width:143px;height:74px;position:absolute;z-index:11;}
+.online-bg .text-bg:before{content:"";background:url(https://cdn.statically.io/gh/rfonlinemyid/2232/52236260/top-content-icon_486cebaff0dc20ab8f82b11cb6fc81c1.png) no-repeat;left:50%;margin-left:-72px;top:-55px;width:143px;height:74px;position:absolute;z-index:11;}
 .navbar-brand .nav-center{font-family:"Candara";text-decoration:"uppercase";font-size:3rem;position:relative;top:50%;left:50%;right:50%;text-align:center;transform:translate(-50%, -50%);}
 .navbar-brand .nav-center:hover{text-shadow:0 0 5px yellow, 0 0 5px #FF0000;}
 .navbar-nav > li:hover{color:#fff;text-shadow:0 0 5px red, 0 0 5px #FF0000;}
