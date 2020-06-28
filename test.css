@@ -320,7 +320,7 @@ div#slider figure img{width:20%;float:left;}
 div#slider figure{position:relative;width:500%;margin:0;left:0;text-align:left;font-size:0;animation:45s slidy infinite;}
 a.ms.text-color{color:#fff;font-size:2rem;text-decoration:none;}
 
-
+=======================================================================================================================================================
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
@@ -2256,7 +2256,7 @@ pre code {
     margin-left: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 900px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
   }
