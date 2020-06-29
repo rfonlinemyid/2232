@@ -8,7 +8,7 @@
 }
 /* Reset the container */
 .container {
-	width: 1200px;
+	width: 600px;
 	max-width: none !important
 }
 .col-xs-4 {
@@ -138,7 +138,7 @@
 	left: 0;
 	width: 200px;
 	height: 90px;
-	background: url(/img/header-nav2.png) center no-repeat
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/header-nav2.png) center no-repeat
 }
 .navbar-brand .nav-center {
 	font-family: candara;
@@ -194,7 +194,7 @@
 }
 .style-left: before {
 	content: "";
-	background: url(/img/left-container-icon.png) no-repeat;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/left-container-icon.png) no-repeat;
 	left: -19px;
 	top: -34px;
 	width: 74px;
@@ -204,7 +204,7 @@
 }
 .style-left: after {
 	content: "";
-	background: url(/img/right-container-icon.png) no-repeat;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/right-container-icon.png) no-repeat;
 	left: 245px;
 	top: -34px;
 	width: 74px;
@@ -283,7 +283,7 @@ h5.heading: after {
 }
 .style-right: before {
 	content: "";
-	background: url(/img/left-container-icon.png) no-repeat;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/left-container-icon.png) no-repeat;
 	left: -34px;
 	top: -34px;
 	width: 74px;
@@ -293,7 +293,7 @@ h5.heading: after {
 }
 .style-right: after {
 	content: "";
-	background: url(/img/right-container-icon.png) no-repeat;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/right-container-icon.png) no-repeat;
 	right: -34px;
 	top: -34px;
 	width: 74px;
@@ -316,17 +316,17 @@ h5.heading: after {
 	padding: 20px 20px
 }
 .col-sm-9 {
-	width: 875px;
-	background: url(/img/content-bg.jpg)
+	width: 600px;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/content-bg.jpg)
 }
 .col-sm-3 {
 	padding-left: 15px
 }
 .sidebar-block {
-	background: url(/img/sidebar-bg.jpg)
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/sidebar-bg.jpg)
 }
 .sidebar-block-light {
-	background: url(/img/light-bg.jpg)
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/light-bg.jpg)
 }
 .no-padding-left {
 	padding-left: 0px;
@@ -336,7 +336,7 @@ h5.heading: after {
 	padding-right: 0px
 }
 .register-block {
-	background: url(/img/dowload-button.jpg) no-repeat;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/button3.png) no-repeat;
 	height: 90px;
 	box-shadow: 0px 5px 20px -2px rgba(0, 0, 0, 0.1)
 }
@@ -441,169 +441,8 @@ a.control_next {
 	margin: 10px auto;
 	width: 160px;
 	font-size: 18px
-}
-.server-status {
-	position: absolute;
-	width: 300px;
-	height: 50px;
-	margin-top: 316px;
-	margin-left: 480px;
-	padding: 12px 20px;
-	background-color: #000000b0;
-	align-items: center;
-	font-size: 18px
-}
-.online-bg {
-	display: block;
-	width: 300px;
-	height: 71px;
-	margin: 0 auto;
-	margin-top: -100px;
-	margin-bottom: 30px;
-	align-items: center;
-	background: url(/img/player-count.png) center no-repeat
-}
-.online-bg .text-bg {
-	font-family: "Candara";
-	font-size: 2rem;
-	position: relative;
-	top: 50%;
-	left: 50%;
-	right: 50%;
-	text-align: center;
-	transform: translate(-50%, -50%)
-}
-.online-bg .text-bg: before {
-	content: "";
-	background: url(/img/top-content-icon.png) no-repeat;
-	left: 50%;
-	margin-left: -72px;
-	top: -55px;
-	width: 143px;
-	height: 74px;
-	position: absolute;
-	z-index: 11
-}
-.navbar-brand .nav-center {
-	font-family: "Candara";
-	text-decoration: "uppercase";
-	font-size: 3rem;
-	position: relative;
-	top: 50%;
-	left: 50%;
-	right: 50%;
-	text-align: center;
-	transform: translate(-50%, -50%)
-}
-.navbar-brand .nav-center: hover {
-	text-shadow: 0 0 5px yellow, 0 0 5px #FF0000
-}
-.navbar-nav > li: hover {
-	color: #fff;
-	text-shadow: 0 0 5px red, 0 0 5px #FF0000
-}
-.panel-body {
-	padding: 10px
-}
-.nav.navbar-nav.ml-auto>li.nav-item.dropdown>.dropdown-menu {
-	left: auto;
-	right: 0
-}
-.panel-default>.panel-heading {
-}
-.panel-heading {
-	padding: 0px
-}
-#accordion .panel-heading {
-	padding: 0px
-}
-#accordion .panel-title {
-	margin-bottom: 0px
-}
-#accordion .panel-title>a {
-	display: block;
-	color: #eeeeee;
-	padding: 7px 5px;
-	text-shadow: 0px 0px 3px #000000;
-	-webkit-transition: color 0.3s linear, background 0.3s linear;
-	-moz-transition: color 0.3s linear, background 0.3s linear;
-	-o-transition: color 0.3s linear, background 0.3s linear;
-	transition: color 0.3s linear, background 0.3s linear;
-	background: #202d3d;
-	border: 1px solid #2d3948;
-	cursor: pointer;
-	text-decoration: none
-}
-#accordion .panel-title>a: hover {
-	display: block;
-	color: #DDDDDD;
-	padding: 7px 5px;
-	text-shadow: 0px 0px 3px #333333;
-	-webkit-transition: color 0.3s linear, background 0.3s linear;
-	-moz-transition: color 0.3s linear, background 0.3s linear;
-	-o-transition: color 0.3s linear, background 0.3s linear;
-	transition: color 0.3s linear, background 0.3s linear;
-	background: #202d3d;
-	border: 1px solid #141e2a;
-	outline: 0;
-	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 3px rgba(102, 175, 233, .7);
-	box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 3px rgba(102, 175, 233, .7);
-	cursor: pointer
-}
-#accordion .panel-title>a.accordion-toggle: : before,#accordion a[data-toggle="collapse"]: : before {
-	content: "\e113";
-	float: right;
-	font-family: 'Glyphicons Halflings';
-	margin-right: 0rem
-}
-#accordion .panel-title>a.accordion-toggle.collapsed: : before,#accordion a.collapsed[data-toggle="collapse"]: : before {
-	content: "\e114"
-}
-.fot-bg {
-	left: 0;
-	top: 0;
-	width: 100%;
-	z-index: 2
-}
-#footer .gap {
-	padding-top: 120px
-}
-#footer .thumbs {
-	float: left;
-	width: 300px
-}
-#footer .thumbs .ico.rfonline {
-	float: left;
-	margin-left: 30px;
-	width: 69px;
-	height: 69px;
-	background: url(/img/rfonline.png) no-repeat
-}
-#footer .thumbs .ico.ccr {
-	float: left;
-	margin-top: 16px;
-	width: 120px;
-	margin-left: 20px;
-	height: 34px;
-	background: url(/img/ccr-logo.png) no-repeat
-}
-#footer .info {
-	float: left;
-	width: 560px;
-	text-align: center;
-	text-transform: uppercase;
-	color: #bfc1c2;
-	margin: 4px 0px
-}
-#footer .stat {
-	padding-top: 20px;
-	float: left;
-	width: 250px;
-	margin-left: 20px;
-	font-size: 12px;
-	text-transform: uppercase;
-	color: #4f5155
-}
+
+
 .slider {
 	overflow: hidden;
 	position: relative;
@@ -772,7 +611,7 @@ a: hover, button: hover {
 	margin-top: -50px
 }
 .download-button button,.donate-button button {
-	background: url(/img/button3.png) no-repeat;
+	background: url(https://cdn.statically.io/gh/rfonlinemyid/2232/8acf2594/button3.png) no-repeat;
 	width: 230px;
 	height: 50px;
 	border: none;
@@ -792,22 +631,7 @@ a: hover, button: hover {
 	font-size: 18px;
 	color: #dfdfdf;
 	text-shadow: 1px 1px 8px #000
-}
-.top-kill-img {
-	width: 240px;
-	height: 67px;
-	background: url(/img/online-bg.png) no-repeat
-}
-.top-kill-img .text-bg {
-	font-size: 3rem;
-	font-family: "Candara";
-	position: relative;
-	top: 50%;
-	left: 50%;
-	right: 50%;
-	text-align: center;
-	transform: translate(-50%, -50%)
-}
+
 .race-intro {
 	height: 310px;
 	width: 400px;
