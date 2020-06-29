@@ -761,7 +761,7 @@ body {
     padding-top: 0px;
     padding-bottom: 0px;
     font-family: "Candara";
-    background: url(../img/bg.jpg) center top no-repeat fixed;
+    background: url() center top no-repeat fixed;
     background-color: #000000;
     height: 100%;
     -moz-background-size: cover;
